@@ -6,19 +6,19 @@ PassGuard is an Android Application developed using Android Studio that provides
 
 PassGuard is designed to offer a Seamless and Secure Authentication experience to Android App users. It incorporates Firebase for Real-time Authentication, ensuring Robust Security.
 
-### User Registration 📝
+#### User Registration 📝
 
 Users can create an account by providing their email 📧 and password 🔒.
 
-### User Login 🔐
+#### User Login 🔐
 
 Registered users can log in to the app using their email 📧 and password 🔒.
 
-### Forgot Password 🚫🔒
+#### Forgot Password 🚫🔒
 
 Users can reset their password by requesting a reset link which will be sent to their registered email 📧.
 
-### Google One Tap Sign In 🌟
+#### Google One Tap Sign In 🌟
 
 Users have the option to use Google One Tap Sign In for a convenient and quick authentication process.
 
@@ -35,9 +35,6 @@ Users have the option to use Google One Tap Sign In for a convenient and quick a
 
 ### Reset_Password
 ![photo_2023-09-29 02 26 40](https://github.com/AyushGarg848/PassGuard/assets/135207129/bbd68aa0-4653-4442-b5b4-4dd0a4689823)
-
-### Home_Page
-![photo_2023-09-29 02 26 39](https://github.com/AyushGarg848/PassGuard/assets/135207129/46c77f68-7b9a-4ded-a5e8-8d411cbd2ed4)
 
 ## Contact Us 📬
 
